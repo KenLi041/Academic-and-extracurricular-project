@@ -1,3 +1,5 @@
+--This is done by Ken Li
+
 module Discgolf2 exposing (..)
 
 import Html
